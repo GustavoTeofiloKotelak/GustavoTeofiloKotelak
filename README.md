@@ -8,6 +8,13 @@
 
 ##### Actually Working as a Head Of Development, orchestrating strategic planning, project management, and team leadership!
 
+OPX
+
+</div>
+<div style="display: inline_block"><br>  
+  <img align="center" alt="RM" height="50" width="60" src="https://opxsolucoes.com.br/wp-content/uploads/2020/05/icone-03desenhos-site.png">  
+</div>
+
 ### Langages de programmation que j'utilise ou que j'ai utilisés
 
 </div>
