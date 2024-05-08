@@ -15,6 +15,7 @@
   <img align="center" alt="C" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">  
   <img align="center" alt="R" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+<img align="center" alt="C" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
 </div>
 
 
