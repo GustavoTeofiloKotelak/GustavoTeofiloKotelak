@@ -8,6 +8,17 @@
 
 ##### Actually Working as a Head Of Development, orchestrating strategic planning, project management, and team leadership!
 
+###Langages de programmation que j'utilise ou que j'ai utilisés
+
+</div>
+<div style="display: inline_block"><br>  
+  <img align="center" alt="C" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">  
+  <img align="center" alt="R" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
+  <img align="center" alt="Python" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+</div>
+
+
+
 ### Ce sont mes réseaux sociaux
 <a href ="https://github.com/GustavoTeofiloKotelak"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <a href ="https://instagram.com/GustavoTeofiloKotelak"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
