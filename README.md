@@ -8,7 +8,7 @@
 
 ##### Actually Working as a Head Of Development, orchestrating strategic planning, project management, and team leadership!
 
-###Langages de programmation que j'utilise ou que j'ai utilisés
+### Langages de programmation que j'utilise ou que j'ai utilisés
 
 </div>
 <div style="display: inline_block"><br>  
