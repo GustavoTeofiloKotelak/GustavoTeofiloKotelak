@@ -8,7 +8,8 @@
 
 ##### Actually Working as a Head Of Development, orchestrating strategic planning, project management, and team leadership!
 
-OPX
+<img align="center" alt="C" height="50" width="60" src="https://opxsolucoes.com.br/wp-content/uploads/2020/05/logo_OPXsolucoesInteligentes02.png">
+
 https://opxsolucoes.com.br/
 
 </div>
