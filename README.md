@@ -8,23 +8,32 @@
 
 ##### Actually Working as a Head Of Development, orchestrating strategic planning, project management, and team leadership!
 
+
+#### Compagnie/Company
+<div style="display: inline_block"><br>  
 <a href="https://opxsolucoes.com.br/" target="_blank">
-  <img align="center" alt="OPXlogo" src="https://opxsolucoes.com.br/wp-content/uploads/2020/05/logo_OPXsolucoesInteligentes02.png" style="width: 30%;">
+  <img align="center" alt="OPXlogo" src="https://opxsolucoes.com.br/wp-content/uploads/2020/05/logo_OPXsolucoesInteligentes02.png" style="width: 25%;">
 </a>
 
-</div>
-<div style="display: inline_block"><br>  
-  <img align="center" alt="RM" height="50" width="60" src="https://opxsolucoes.com.br/wp-content/uploads/2020/05/icone-03desenhos-site.png">  
+  <img align="center" alt="RM" height="80" width="100" src="https://opxsolucoes.com.br/wp-content/uploads/2020/05/icone-03desenhos-site.png" >  
 </div>
 
-### Langages de programmation que j'utilise ou que j'ai utilisés
 
-</div>
+### Langages de programmation que j'utilise ou que j'ai utilisés/Programming languages ​​I use or have used
+
 <div style="display: inline_block"><br>  
   <img align="center" alt="C" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">  
   <img align="center" alt="R" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg">
   <img align="center" alt="Python" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
-<img align="center" alt="C" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+  <img align="center" alt="JS" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg">
+</div>
+
+
+### Université/College
+<div style="display: inline_block;">
+  <a href="https://unifatecpr.com.br/" target="_blank">
+    <img align="center" alt="Unifatec" src="https://unifatecpr.com.br/images/logohome.png" style="width: 25%;">
+  </a>
 </div>
 
 
@@ -33,7 +42,7 @@
 <a href ="https://github.com/GustavoTeofiloKotelak"><img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
 <a href ="https://instagram.com/GustavoTeofiloKotelak"><img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 <a href ="https://www.linkedin.com/in/gustavoteofilokotelak"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoTeofiloKotelak)](https://github.com/GusatvoTeofiloKotelak/github-readme-stats)
 
 
